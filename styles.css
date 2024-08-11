@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+
+.clr-orange-100{
+    @apply bg-orange-600;
+}
+
+.clr-cyan-100{
+    @apply bg-cyan-600;
+}
+
+
+.clr-pink-100{
+    @apply bg-pink-600;
+}
+
+.clr-lime-100{
+    @apply bg-lime-600;
+}
+
+@tailwind utilities
